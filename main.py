@@ -9,4 +9,6 @@ if simvol == "+":
 elif simvol == "-":
     resault = a-b
     print(resault)
-
+elif simvol == "*":
+    resault = a*b
+    print(resault)
